@@ -1,0 +1,47 @@
+name: insta_app
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  video_player: ^2.9.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/1.jpg
+    - images/2.jpg
+    - images/3.jpg
+    - images/4.jpg
+    - images/5.jpg
+    - images/6.jpg
+    - images/7.jpg
+    - images/8.jpg
+    - images/insta_logo.png
+    - images/instatitle.png
+    - images/story.png
+    - images/post_1.jpg
+    - images/post_2.jpg
+    - images/post_3.jpg
+    - images/post_4.jpg
+    - images/post_5.jpg
+    - images/post_6.jpg
+    - images/post_7.jpg
+    - images/post_8.jpg
+    - images/post_9.jpg
+    - images/post_10.jpg
+    - images/post_11.jpg
+    - images/post_12.jpg
+    - images/The_Middle_East.mp4
+    - images/user_image.png
